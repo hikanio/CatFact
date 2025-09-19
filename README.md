@@ -1,6 +1,6 @@
 ﻿# Cat Facts CLI 🐾
 
-A simple command-line application that fetches cat facts from external API. This application was created as a recruitment task for a company.
+A simple command-line application that fetches cat facts from external API.
 
 ## Features ✨
 
@@ -98,4 +98,5 @@ dotnet run path
 Example output:
 ```
 Cat facts are saved at: ...\CatFact\bin\Debug\net9.0\Data\CatFacts.txt
+
 ```
